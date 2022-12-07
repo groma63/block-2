@@ -1,0 +1,14 @@
+@font-face {
+  font-family: TT Lakes-Bold;
+  src: url(/font/TTLakes-Bold.woff);
+}
+@font-face {
+  font-family: 'TT Lakes';
+  src: url('TTLakes-Light.eot');
+  src: local('TT Lakes Light'), local('TTLakes-Light'),
+      url('TTLakes-Light.eot?#iefix') format('embedded-opentype'),
+      url('TTLakes-Light.woff') format('woff'),
+      url('TTLakes-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
