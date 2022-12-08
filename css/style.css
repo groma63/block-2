@@ -32,6 +32,7 @@
    width: 40px;
    height: 40px;
    background-color: #FF3E79;
+   cursor: pointer;
  }
 
  button:hover {
@@ -52,6 +53,9 @@
  p {
    margin: 0;
    padding: 0;
+ }
+ a {
+   cursor: pointer;
  }
 
  /* .container {
@@ -156,7 +160,9 @@
 
  .chat-btn {
    margin-right: 16px;
-   background-image: url(../icons/chat.svg);
+   background-image: url(../icons/chat.png);
+   background-repeat: no-repeat;
+   background-position: center;
 
 
  }
